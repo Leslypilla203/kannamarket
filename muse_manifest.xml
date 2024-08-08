@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kannamarket.ddns.net" resolutions="1x" timestamp="1723075621861">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kannamarket.ddns.net" resolutions="1x" timestamp="1723075868302">
   <folder name="assets">
     <file name="hojas-canabis.webp" crc="3847769972" seo="true" mt="1717691016000"/>
   </folder>
@@ -45,7 +45,7 @@
     <file name="logo kannamarket.png" crc="3801568139" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="ofertas" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
@@ -55,7 +55,7 @@
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="ofertas" alt=""/>
     </file>
     <file name="crema de cannabis 12.png" crc="4050774207" seo="true" ref="index:productos:novedades:ofertas:inicio---copia">
       <caption webpage="index" alt=""/>
@@ -86,7 +86,7 @@
     <file name="captura_de_pantalla_2024-06-04_222847-removebg-preview 2.png" crc="4096416517" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="ofertas" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
@@ -96,7 +96,7 @@
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="ofertas" alt=""/>
     </file>
     <file name="cannabis.jpg" crc="296073894" seo="true" ref="producto-seleccionado:carrito-de-compras:carrito-de-compra-1-producto">
       <caption webpage="carrito-de-compras" alt=""/>
@@ -123,7 +123,7 @@
     <file name="1827504.png" crc="258168644" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="ofertas" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
@@ -133,12 +133,12 @@
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="ofertas" alt=""/>
     </file>
     <file name="263142.png" crc="4073066833" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="ofertas" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
@@ -148,22 +148,22 @@
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="ofertas" alt=""/>
     </file>
     <file name="my-account-login.png" crc="130870292" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado">
-      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
     <file name="whatsapp_link.png" crc="3900323141" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="ofertas" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
@@ -173,7 +173,7 @@
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="ofertas" alt=""/>
     </file>
     <file name="4115235-exit-logout-sign-out_114030.png" crc="3948841754" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="inicio---copia" alt=""/>
@@ -204,13 +204,13 @@
       <caption webpage="mi-perfil" alt=""/>
     </file>
     <file name="captura de pantalla 2024-06-06 161926-crop-u2558.jpg" crc="84961699" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado">
-      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
     <file name="captura de pantalla 2024-06-06 161926-crop-u2576.jpg" crc="84961699" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
@@ -358,7 +358,7 @@
       <caption webpage="mas-vendidos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="73733750" seo="true" mt="1723075524152" redirect="true"/>
+  <file name="index.html" crc="486524581" seo="true" mt="1723075851895" redirect="true"/>
   <file name="productos.html" crc="4226848584" seo="true" mt="1717807236472" redirect="true"/>
   <file name="nosotros.html" crc="332148305" seo="true" mt="1717807236472" redirect="true"/>
   <file name="inicio-sesion.html" crc="4005761898" seo="true" mt="1717807264080" redirect="true"/>
