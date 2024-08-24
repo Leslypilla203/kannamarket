@@ -1,34 +1,34 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kannamarket.ddns.net" resolutions="1x" timestamp="1723075868302">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kannamarket.ddns.net" resolutions="1x" timestamp="1724458549295">
   <folder name="assets">
     <file name="hojas-canabis.webp" crc="3847769972" seo="true" mt="1717691016000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="productos.css" crc="4072276593" ref="productos"/>
-    <file name="index.css" crc="96683075" ref="index"/>
-    <file name="inicio-sesion.css" crc="4029122723" ref="inicio-sesion"/>
-    <file name="nosotros.css" crc="137538443" ref="nosotros"/>
-    <file name="novedades.css" crc="3981824782" ref="novedades"/>
-    <file name="mas-vendidos.css" crc="383630491" ref="mas-vendidos"/>
-    <file name="ofertas.css" crc="3920119223" ref="ofertas"/>
-    <file name="producto-seleccionado.css" crc="3943021810" ref="producto-seleccionado"/>
-    <file name="master_a-p_g_-maestra-_si-inicio_.css" crc="4031506634" ref="carrito-de-compras:mi-perfil:carrito-de-compra-1-producto:inicio---copia"/>
-    <file name="master_a-p_g_-maestra-_no-inicio_.css" crc="3946521443" ref="novedades:mas-vendidos:inicio-sesion:ofertas:nosotros:productos:index:producto-seleccionado"/>
-    <file name="carrito-de-compras.css" crc="268280998" ref="carrito-de-compras"/>
-    <file name="mi-perfil.css" crc="238296900" ref="mi-perfil"/>
-    <file name="carrito-de-compra-1-producto.css" crc="104248895" ref="carrito-de-compra-1-producto"/>
-    <file name="inicio---copia.css" crc="3816189456" ref="inicio---copia"/>
+    <file name="productos.css" crc="331483756" ref="productos"/>
+    <file name="index.css" crc="3899506831" ref="index"/>
+    <file name="inicio-sesion.css" crc="124678925" ref="inicio-sesion"/>
+    <file name="nosotros.css" crc="3769839267" ref="nosotros"/>
+    <file name="novedades.css" crc="524460690" ref="novedades"/>
+    <file name="mas-vendidos.css" crc="141726814" ref="mas-vendidos"/>
+    <file name="ofertas.css" crc="4002761507" ref="ofertas"/>
+    <file name="producto-seleccionado.css" crc="3854537533" ref="producto-seleccionado"/>
+    <file name="master_a-p_g_-maestra-_si-inicio_.css" crc="4073843502" ref="carrito-de-compras:mi-perfil:inicio---copia"/>
+    <file name="master_a-p_g_-maestra-_no-inicio_.css" crc="262701562" ref="novedades:mas-vendidos:inicio-sesion:ofertas:nosotros:productos:index:producto-seleccionado:registro"/>
+    <file name="carrito-de-compras.css" crc="3974714374" ref="carrito-de-compras"/>
+    <file name="mi-perfil.css" crc="392096867" ref="mi-perfil"/>
+    <file name="inicio---copia.css" crc="4171289959" ref="inicio---copia"/>
+    <file name="registro.css" crc="4045276119" ref="registro"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="museutils.js" crc="3939489907" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="whatinput.js" crc="86476730" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="require.js" crc="4177726516" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto"/>
-    <file name="webpro.js" crc="3856315280" ref="producto-seleccionado:index:nosotros:inicio---copia"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="museutils.js" crc="3939489907" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="whatinput.js" crc="86476730" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="require.js" crc="4177726516" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro"/>
+    <file name="webpro.js" crc="3856315280" ref="producto-seleccionado:index:nosotros:inicio---copia:inicio-sesion:registro"/>
     <file name="musewpslideshow.js" crc="244150766" ref="producto-seleccionado:index:inicio---copia"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="producto-seleccionado:index:inicio---copia"/>
     <file name="touchswipe.js" crc="3888935200" ref="producto-seleccionado:index:inicio---copia"/>
@@ -36,25 +36,29 @@
     <file name="form_throttle.php" crc="503802655" ref="nosotros"/>
     <file name="form_process.php" crc="260214869" ref="nosotros"/>
     <file name="form-u3123.php" crc="3822923759" ref="nosotros"/>
+    <file name="form-u5958.php" crc="441425230" ref="registro"/>
+    <file name="form-u6106.php" crc="3824012300" ref="inicio-sesion"/>
   </folder>
   <folder name="images">
     <file name="captura de pantalla 2024-06-05 162742.jpg" crc="4115745252" seo="true" ref="producto-seleccionado">
       <caption webpage="index" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
     </file>
-    <file name="logo kannamarket.png" crc="3801568139" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
+    <file name="logo kannamarket.png" crc="3801568139" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
-      <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="mas-vendidos" alt=""/>
+      <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
     <file name="crema de cannabis 12.png" crc="4050774207" seo="true" ref="index:productos:novedades:ofertas:inicio---copia">
@@ -83,28 +87,30 @@
       <caption webpage="ofertas" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
-    <file name="captura_de_pantalla_2024-06-04_222847-removebg-preview 2.png" crc="4096416517" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
+    <file name="captura_de_pantalla_2024-06-04_222847-removebg-preview 2.png" crc="4096416517" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
-      <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="mas-vendidos" alt=""/>
+      <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
-    <file name="cannabis.jpg" crc="296073894" seo="true" ref="producto-seleccionado:carrito-de-compras:carrito-de-compra-1-producto">
-      <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
+    <file name="cannabis.jpg" crc="296073894" seo="true" ref="producto-seleccionado">
       <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="producto-seleccionado:index:inicio---copia"/>
     <file name="captura de pantalla 2024-06-04 134401.jpg" crc="4140692078" seo="true" ref="producto-seleccionado">
@@ -120,117 +126,127 @@
       <caption webpage="producto-seleccionado" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="producto-seleccionado:index:inicio---copia"/>
-    <file name="1827504.png" crc="258168644" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
+    <file name="1827504.png" crc="258168644" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
-      <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="mas-vendidos" alt=""/>
+      <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
-    <file name="263142.png" crc="4073066833" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
+    <file name="263142.png" crc="4073066833" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
-      <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="mas-vendidos" alt=""/>
+      <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
-    <file name="my-account-login.png" crc="130870292" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado">
+    <file name="my-account-login.png" crc="130870292" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:registro">
+      <caption webpage="index" alt=""/>
       <caption webpage="productos" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
+      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="registro" alt=""/>
       <caption webpage="ofertas" alt=""/>
+      <caption webpage="nosotros" alt=""/>
     </file>
-    <file name="whatsapp_link.png" crc="3900323141" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
+    <file name="whatsapp_link.png" crc="3900323141" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:carrito-de-compras:mi-perfil:inicio---copia:registro">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="inicio-sesion" alt=""/>
-      <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="mas-vendidos" alt=""/>
+      <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
     </file>
-    <file name="4115235-exit-logout-sign-out_114030.png" crc="3948841754" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="4115235-exit-logout-sign-out_114030.png" crc="3948841754" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia">
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
-      <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
-    </file>
-    <file name="hombre 2.png" crc="3825293350" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
       <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
-      <caption webpage="carrito-de-compra-1-producto" alt=""/>
-    </file>
-    <file name="860829.png" crc="3800181972" seo="true" ref="carrito-de-compras:carrito-de-compra-1-producto">
       <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
+    </file>
+    <file name="hombre 2.png" crc="3825293350" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia">
+      <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="mi-perfil" alt=""/>
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
+    </file>
+    <file name="860829.png" crc="3800181972" seo="true" ref="carrito-de-compras">
+      <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
     </file>
-    <file name="image 1.jpg" crc="3782731806" seo="true" ref="carrito-de-compras:carrito-de-compra-1-producto">
+    <file name="image 1.jpg" crc="3782731806" seo="true" ref="carrito-de-compras">
       <caption webpage="carrito-de-compra-1-producto" alt=""/>
       <caption webpage="carrito-de-compras" alt=""/>
     </file>
     <file name="hombre 1.png" crc="217280730" seo="true" ref="mi-perfil">
       <caption webpage="mi-perfil" alt=""/>
     </file>
-    <file name="captura de pantalla 2024-06-06 161926-crop-u2558.jpg" crc="84961699" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado">
+    <file name="captura de pantalla 2024-06-06 161926-crop-u2558.jpg" crc="84961699" seo="true" ref="index:productos:nosotros:inicio-sesion:novedades:ofertas:mas-vendidos:producto-seleccionado:registro">
+      <caption webpage="index" alt=""/>
       <caption webpage="productos" alt=""/>
-      <caption webpage="novedades" alt=""/>
-      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="mas-vendidos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="nosotros" alt=""/>
+      <caption webpage="producto-seleccionado" alt=""/>
       <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
+      <caption webpage="registro" alt=""/>
       <caption webpage="ofertas" alt=""/>
+      <caption webpage="nosotros" alt=""/>
     </file>
-    <file name="captura de pantalla 2024-06-06 161926-crop-u2576.jpg" crc="84961699" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia:carrito-de-compra-1-producto">
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="captura de pantalla 2024-06-06 161926-crop-u2576.jpg" crc="84961699" seo="true" ref="carrito-de-compras:mi-perfil:inicio---copia">
       <caption webpage="inicio---kannamarket---sesión-iniciada" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
       <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="carrito-de-compras" alt=""/>
       <caption webpage="carrito-de-compra-1-producto" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="productos:producto-seleccionado:index">
+    <file name="arrowmenudown.png" crc="262559161" ref="productos">
       <caption webpage="index" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="producto-seleccionado" alt=""/>
     </file>
-    <file name="crema de cannabis 5.png" crc="275798639" seo="true" ref="productos:index:novedades:ofertas:inicio---copia">
+    <file name="crema de cannabis 5.png" crc="275798639" seo="true" ref="productos:index:novedades:ofertas:inicio---copia:carrito-de-compras">
       <caption webpage="index" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="novedades" alt=""/>
       <caption webpage="ofertas" alt=""/>
+      <caption webpage="carrito-de-compras" alt=""/>
     </file>
     <file name="crema de cannabis 14.png" crc="111907279" seo="true" ref="productos:index:novedades:ofertas:inicio---copia">
       <caption webpage="index" alt=""/>
@@ -301,8 +317,10 @@
     <file name="imagen pegada 1024x10242.jpg" crc="338965210" seo="true" ref="nosotros">
       <caption webpage="nosotros" alt=""/>
     </file>
-    <file name="free-user-icon-3296-thumb.png" crc="432468204" seo="true" ref="inicio-sesion">
+    <file name="free-user-icon-3296-thumb.png" crc="432468204" seo="true" ref="inicio-sesion:registro">
       <caption webpage="inicio-sesion" alt=""/>
+      <caption webpage="registro" alt=""/>
+      <caption webpage="sin-título-14" alt=""/>
     </file>
     <file name="cbd pulgas perros 1.png" crc="301197889" seo="true" ref="novedades:ofertas:mas-vendidos">
       <caption webpage="ofertas" alt=""/>
@@ -357,17 +375,23 @@
     <file name="cbd vitaminas perros 2-crop-u4181.png" crc="518897332" seo="true" ref="mas-vendidos">
       <caption webpage="mas-vendidos" alt=""/>
     </file>
+    <file name="cbd aceite salud 2-crop-u2316.png" crc="215207252" seo="true" ref="carrito-de-compras">
+      <caption webpage="carrito-de-compras" alt=""/>
+    </file>
+    <file name="cbd pomada salud 1.png" crc="4219843210" seo="true" ref="carrito-de-compras">
+      <caption webpage="carrito-de-compras" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="486524581" seo="true" mt="1723075851895" redirect="true"/>
-  <file name="productos.html" crc="4226848584" seo="true" mt="1717807236472" redirect="true"/>
-  <file name="nosotros.html" crc="332148305" seo="true" mt="1717807236472" redirect="true"/>
-  <file name="inicio-sesion.html" crc="4005761898" seo="true" mt="1717807264080" redirect="true"/>
-  <file name="novedades.html" crc="155656471" seo="true" mt="1717807236472" redirect="true"/>
-  <file name="ofertas.html" crc="464432275" seo="true" mt="1717807236472" redirect="true"/>
-  <file name="mas-vendidos.html" crc="3767364065" seo="true" mt="1717807236472" redirect="true"/>
-  <file name="producto-seleccionado.html" crc="240889816" seo="true" mt="1720275707754" redirect="true"/>
-  <file name="carrito-de-compras.html" crc="216866918" seo="true" mt="1720275456712" redirect="true"/>
-  <file name="mi-perfil.html" crc="3930493182" seo="true" mt="1717807874580" redirect="true"/>
-  <file name="inicio---copia.html" crc="507041370" seo="true" mt="1717807236505" redirect="true"/>
-  <file name="carrito-de-compra-1-producto.html" crc="509253114" seo="true" mt="1720275456551" redirect="true"/>
+  <file name="index.html" crc="346830465" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="productos.html" crc="4057674670" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="nosotros.html" crc="3930481746" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="inicio-sesion.html" crc="4191641476" seo="true" mt="1724458156579" redirect="true"/>
+  <file name="novedades.html" crc="3921084509" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="ofertas.html" crc="3889373477" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="mas-vendidos.html" crc="272771224" seo="true" mt="1724455865212" redirect="true"/>
+  <file name="producto-seleccionado.html" crc="210453182" seo="true" mt="1724458390653" redirect="true"/>
+  <file name="carrito-de-compras.html" crc="3868379410" seo="true" mt="1724457934303" redirect="true"/>
+  <file name="mi-perfil.html" crc="470909646" seo="true" mt="1724455865217" redirect="true"/>
+  <file name="inicio---copia.html" crc="4181571154" seo="true" mt="1724455865217" redirect="true"/>
+  <file name="registro.html" crc="4111523052" seo="true" mt="1724458194985" redirect="true"/>
 </manifest>

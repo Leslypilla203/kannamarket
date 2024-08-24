@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kannamarket.ddns.net/index.html</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/ofertas.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/productos.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/nosotros.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -209,7 +209,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/inicio-sesion.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -239,7 +239,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/novedades.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,7 +296,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/carrito-de-compras.html</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -304,9 +304,6 @@
     </image:image>
     <image:image>
       <image:loc>http://kannamarket.ddns.net/images/captura_de_pantalla_2024-06-04_222847-removebg-preview%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/cannabis.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kannamarket.ddns.net/images/1827504.png</image:loc>
@@ -332,10 +329,19 @@
     <image:image>
       <image:loc>http://kannamarket.ddns.net/images/captura%20de%20pantalla%202024-06-06%20161926-crop-u2576.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://kannamarket.ddns.net/images/crema%20de%20cannabis%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kannamarket.ddns.net/images/cbd%20aceite%20salud%202-crop-u2316.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kannamarket.ddns.net/images/cbd%20pomada%20salud%201.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/mas-vendidos.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -392,7 +398,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/producto-seleccionado.html</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -437,7 +443,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/inicio---copia.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -494,7 +500,7 @@
   </url>
   <url>
     <loc>http://kannamarket.ddns.net/mi-perfil.html</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -526,8 +532,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://kannamarket.ddns.net/carrito-de-compra-1-producto.html</loc>
-    <lastmod>2024-07-06</lastmod>
+    <loc>http://kannamarket.ddns.net/registro.html</loc>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -537,31 +543,22 @@
       <image:loc>http://kannamarket.ddns.net/images/captura_de_pantalla_2024-06-04_222847-removebg-preview%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/cannabis.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kannamarket.ddns.net/images/1827504.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kannamarket.ddns.net/images/263142.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://kannamarket.ddns.net/images/my-account-login.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://kannamarket.ddns.net/images/whatsapp_link.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/4115235-exit-logout-sign-out_114030.png</image:loc>
+      <image:loc>http://kannamarket.ddns.net/images/captura%20de%20pantalla%202024-06-06%20161926-crop-u2558.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/hombre%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/860829.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/image%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kannamarket.ddns.net/images/captura%20de%20pantalla%202024-06-06%20161926-crop-u2576.jpg</image:loc>
+      <image:loc>http://kannamarket.ddns.net/images/free-user-icon-3296-thumb.png</image:loc>
     </image:image>
   </url>
   <url>
